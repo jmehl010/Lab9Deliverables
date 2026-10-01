@@ -1,0 +1,12 @@
+Parent repository
+  students-arcade
+Fork repository
+  jmehl010/students-arcade
+Local clone folder
+  jmehl010/students-arcade
+Current branch
+  magic-8-ball
+Initial program output
+  None
+Any existing plugin errors or skipped modules
+  None
